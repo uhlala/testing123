@@ -1,0 +1,23 @@
+[
+  {
+    "appId": "com.google.widgets.tv.vizio.launchyoutubedial",
+    "launchString": "<TYPE=html5><URL=https://www.youtube.com/tv><SIZE=1920x1080><APP=YouTube><DIAL=YouTube>",
+    "dialAppId": "DIAL-APP-ID"
+  },
+  {
+    "appId": "com.toongoggles.html5",
+    "launchString": "<TYPE=html5><URL=http://html5.toongoggles.com><SIZE=1280x720><APP=Toon Goggles><DIAL=toongoggles>",
+    "dialAppId": "TOONGOGGLES"
+  },
+  {
+    "appId": "vizio.mtk.launchhtml5flixfling",
+    "launchString": "<TYPE=html5><URL=http://tv.flixfling.com/vizio><SIZE=1280x720><APP=FlixFling><DIAL=flixfling>",
+    "dialAppId": "FLIXFLING"
+  },
+  {
+    "appId": "tv.vizbee.popcornflix.launcher",
+    "launchString": "<TYPE=html5><URL=https://apps.clasp.tv/popcornflix/><SIZE=1280x720><APP=PopcornFlix><DIAL=popcornflix>",
+    "dialAppId": "POPCORNFLIX"
+  }
+
+]
